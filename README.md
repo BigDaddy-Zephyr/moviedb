@@ -1,11 +1,11 @@
 # moviedb
 
-#Libraries used
+# Libraries used
 Express 
 Sequelize
 pg
 
-#APIs
+# APIs
 /byratinggenreyear 
 Body{
 genre:
