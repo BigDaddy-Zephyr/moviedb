@@ -1,10 +1,11 @@
 
-# Libraries used
+# Libraries used #
 <ul>
 <li>Express</li> 
 <li>Sequelize</li>
 <li>pg</li></ul>
- ## APIs
+
+ ## APIs ##
 
 
 <p>/byratinggenreyear(x-www-form-url-encoded)
