@@ -6,7 +6,7 @@ var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
-var pgcreds= require('./postgresccreds.json');
+var pgcreds= require('./postgrescreds.json');
 var app = express();
 app.listen(() => console.log("app listening on port 3000"));
 const Sequelize = require('sequelize');
