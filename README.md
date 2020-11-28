@@ -13,4 +13,4 @@ ratinglower:
 startyear:
 endyear:}
 
-It returns the movies of a particular genre with Rating<ratinghigher and Rating>rating lower and between years startyear and endyear
+It returns the movies of a particular genre with Rating between ratinglower and rating higher and between years startyear and endyear
